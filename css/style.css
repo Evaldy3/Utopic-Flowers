@@ -1,0 +1,120 @@
+body
+{
+	font-family: 'EB Garamond', serif;
+	background:#f6e7dd;
+}
+
+/* NAV-BAR */
+.nav1
+{
+	margin: 0px auto;
+	border-radius: 0px;
+}
+
+.navbar
+{
+	border: 0px solid;
+}
+
+.nav2
+{
+	font-family: 'Oswald', sans-serif;
+	font-size:40px;
+}
+
+.icon
+{
+	position:relative;
+	top: 10px;
+	right:10px;
+}
+
+.nav3
+{
+	font-size:1.5em;
+}
+
+/*jumbotron*/
+.ju1
+{
+	margin: auto 0px;
+	border-radius: 0px;
+}
+
+.ju>p
+{
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	text-align:center;
+	text-shadow: -7px -5px 7px #FEF160;
+}
+
+/*CAROUSEL*/
+.carousel-caption>p
+{
+	background-color:#000;
+	padding: 10px;
+	font-size:20px;
+	opacity: 0.5;
+	font-family: 'Archivo Black', sans-serif;
+	width:auto;
+}
+
+h3
+{
+	background-color:#000;
+	padding: 0px;
+	margin: 0px;
+	font-size:20px;
+	opacity: 0.5;
+	font-family: 'Archivo Black', sans-serif;
+	width:auto;
+}
+
+/* */
+.heading
+{
+	font-family: 'chewy', cursive;
+	color:#49BCAB;
+	font-size:25px;
+}
+
+.col-md-10
+{
+	font-size:2px;
+	color:#000;
+}
+
+.ju2
+{
+	background:#fff;
+	opacity:0.9;
+}
+
+.container .jumbotron
+{
+	border-radius: 0px;
+}
+
+.ju3
+{
+	font-family: 'Archivo Black', sans-serif;
+	background:#eee;
+	color:#1E3746;
+	margin: auto 0px;
+	border-radius: 0px;
+}
+
+.caption
+{
+	font-size: 20px;
+	font-family: 'EB Garamond', serif;
+}
+
+.footer
+{
+	background:#FFF;
+	margin: auto 0px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+}
